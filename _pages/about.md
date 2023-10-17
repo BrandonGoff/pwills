@@ -9,7 +9,7 @@ permalink: /about/
 # About Me
 
 <img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
-width="100%" height="50%" hspace="20" align="right">
+width="50%" hspace="20" align="right">
 
 I help organizations understand and leverage their quantitative
 information. Call it what you will: data science, machine learning, or
